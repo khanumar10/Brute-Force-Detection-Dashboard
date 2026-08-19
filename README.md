@@ -30,3 +30,13 @@ python3 database.py
 python3 simulator.py
 python3 app.pyOOO
 
+
+---
+
+## 5. Test Results & Visual Evidence
+
+### SOC Monitoring Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### High-Severity Brute-Force Alerts
+![Alerts Evidence](screenshots/alerts_evidence.png)
