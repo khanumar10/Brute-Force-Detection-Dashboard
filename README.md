@@ -28,7 +28,7 @@ An internal SOC monitoring dashboard designed to detect repeated authentication 
 ```bash
 python3 database.py
 python3 simulator.py
-python3 app.pyOOO
+python3 app.py
 
 
 ---
